@@ -1,0 +1,57 @@
+# אוטו שי — Generative Engine Optimization Map
+
+> A השכרת רכב ותחבורה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-9e9d6d88.zappy5.app
+אוטו שי מציעה השכרת רכב 24/7 במחירים הוגנים. שירות אישי, מהיר ואמין לאנשים פרטיים ועסקים. הזמן עכשיו!
+
+### השירותים שלנו
+https://-9e9d6d88.zappy5.app/services
+גלה את הצי המגוון של אוטו שי. השכרת רכב לכל צורך - קומפקטיים, משפחתיים, יוקרה ועסקיים. שירות 24/7 במחירים הוגנים.
+
+### אודות
+https://-9e9d6d88.zappy5.app/about
+הכר את אוטו שי - חברת השכרת רכב המובילה בישראל. שירות אישי, מהיר ואמין מזה שנים. למד על הערכים והמחויבות שלנו ללקוחות.
+
+### צור קשר
+https://-9e9d6d88.zappy5.app/contact
+צור קשר עם אוטו שי להשכרת רכב. זמינים 24/7 לכל שאלה או הזמנה. מלא טופס קשר או התקשר אלינו ישירות. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9e9d6d88.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9e9d6d88.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9e9d6d88.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אוטו שי
+אוטו שי is a business in the השכרת רכב ותחבורה industry.
+
+## Target Audience
+אנשים פרטיים המחפשים רכב לחופשה או לשימוש יומיומי, ואנשי עסקים
+
+## Industry
+השכרת רכב ותחבורה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-9e9d6d88.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-9e9d6d88.zappy5.app/robots.txt
